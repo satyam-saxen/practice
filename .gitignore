@@ -1,0 +1,4 @@
+#ignore the file which ends with 
+*.py
+*.cpp
+*.mat
