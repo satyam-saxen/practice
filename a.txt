@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 kfskk
-my email is satyam123saxena@gmail.com
+my email is satyam2saxena@gmail.com
+||||||| f5f88b1
+kfskk
+=======
+kfskk
+my email is satyam2saxena@gmail.com
+>>>>>>> br1
